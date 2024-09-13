@@ -1,3 +1,6 @@
+This is using Postgressql. it can be used with neon.com which is some server.
+It is possible to make using prisma
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
